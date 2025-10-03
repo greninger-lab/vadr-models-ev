@@ -1,0 +1,22 @@
+{
+  "version": "1.2",
+  "dbname": "evB.vadr.protein.fa",
+  "dbtype": "Protein",
+  "db-version": 5,
+  "description": "evB/evB.vadr.protein.fa",
+  "number-of-letters": 162199,
+  "number-of-sequences": 74,
+  "last-updated": "2025-10-02T22:01:00",
+  "number-of-volumes": 1,
+  "bytes-total": 208222,
+  "bytes-to-cache": 162986,
+  "files": [
+    "evB.vadr.protein.fa.pdb",
+    "evB.vadr.protein.fa.phr",
+    "evB.vadr.protein.fa.pin",
+    "evB.vadr.protein.fa.pot",
+    "evB.vadr.protein.fa.psq",
+    "evB.vadr.protein.fa.ptf",
+    "evB.vadr.protein.fa.pto"
+  ]
+}
