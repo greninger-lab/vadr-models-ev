@@ -6,7 +6,7 @@
   "description": "evB.fa",
   "number-of-letters": 7559,
   "number-of-sequences": 1,
-  "last-updated": "2025-10-20T19:09:00",
+  "last-updated": "2025-12-02T14:58:00",
   "number-of-volumes": 1,
   "bytes-total": 38953,
   "bytes-to-cache": 1995,
