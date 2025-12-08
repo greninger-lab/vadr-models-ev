@@ -1,4 +1,4 @@
-MODEL evB blastdb:"evB.vadr.protein.fa" cmfile:"evB.cm" group:":FILE:evB.stk" subgroup:":FILE:evB.stk" length:"7559"
+MODEL evB blastdb:"evB.vadr.protein.fa" cmfile:"evB.cm" group:":FILE:evB.stk" subgroup:":FILE:evB.stk" length:"7562"
 FEATURE evB type:"gene" coords:"745..7398:+" parent_idx_str:"GBNULL" gene:"POLY"
 FEATURE evB type:"CDS" coords:"745..7398:+" parent_idx_str:"GBNULL" gene:"POLY" deletin_exc:"3283..3353:+:36"
 FEATURE evB type:"mat_peptide" coords:"745..951:+"   parent_idx_str:"1" gene:"POLY" product:"1A" note:"VP4"
