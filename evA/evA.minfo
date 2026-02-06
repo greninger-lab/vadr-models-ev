@@ -15,4 +15,3 @@ FEATURE evA type:"mat_peptide" coords:"5944..7329:+" parent_idx_str:"1" gene:"PO
 FEATURE evA type:"regulatory" coords:"1..90:+" parent_idx_str:"GBNULL" note:"5' UTR cloverleaf cis-acting replication element; CRE" regulatory_class:"replication_regulatory_region"
 FEATURE evA type:"misc_structure" coords:"398..649:+" parent_idx_str:"GBNULL" note:"internal ribosomal entry site; IRES"
 FEATURE evA type:"regulatory" coords:"4404..4464:+" parent_idx_str:"GBNULL" note:"cis-acting replication element; CRE" regulatory_class:"replication_regulatory_region"
-FEATURE evA type:"misc_structure" coords:"7312..7412:+" parent_idx_str:"GBNULL" note:"3' UTR kissing-loop replication element; oriR" regulatory_class:"replication_regulatory_region"
