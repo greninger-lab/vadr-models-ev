@@ -14,3 +14,4 @@ FEATURE evC type:"mat_peptide" coords:"5372..5437:+" parent_idx_str:"1" product:
 FEATURE evC type:"mat_peptide" coords:"5438..7369:+" parent_idx_str:"1" product:"protein 3CD"
 FEATURE evC type:"mat_peptide" coords:"5438..5986:+" parent_idx_str:"1" product:"protease 3C"
 FEATURE evC type:"mat_peptide" coords:"5987..7369:+" parent_idx_str:"1" product:"RNA-directed RNA polymerase"
+FEATURE evC type:"regulatory" coords:"1..88:+" parent_idx_str:"GBNULL" note:"5' UTR cloverleaf cis-acting replication element; CRE" regulatory_class:"replication_regulatory_region"
