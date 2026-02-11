@@ -1,6 +1,6 @@
 MODEL evA blastdb:"evA.vadr.protein.fa" cmfile:"evA.cm" group:":FILE:evA.stk" subgroup:":FILE:evA.stk" length:"7490"
 FEATURE evA type:"gene" coords:"751..7332:+" parent_idx_str:"GBNULL" gene:"POLY"
-FEATURE evA type:"CDS" coords:"751..7332:+" parent_idx_str:"GBNULL" gene:"POLY"
+FEATURE evA type:"CDS" coords:"751..7332:+" parent_idx_str:"GBNULL" gene:"POLY" product:"polyprotein"
 FEATURE evA type:"mat_peptide" coords:"751..957:+"   parent_idx_str:"1" gene:"POLY" product:"1A" note:"VP4"
 FEATURE evA type:"mat_peptide" coords:"958..1719:+"  parent_idx_str:"1" gene:"POLY" product:"1B" note:"VP2"
 FEATURE evA type:"mat_peptide" coords:"1720..2445:+" parent_idx_str:"1" gene:"POLY" product:"1C" note:"VP3"
