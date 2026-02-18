@@ -6,7 +6,7 @@
   "description": "evD/evD.fa",
   "number-of-letters": 7468,
   "number-of-sequences": 1,
-  "last-updated": "2026-02-17T22:22:00",
+  "last-updated": "2026-02-14T00:05:00",
   "number-of-volumes": 1,
   "bytes-total": 38939,
   "bytes-to-cache": 1981,
