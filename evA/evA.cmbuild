@@ -1,0 +1,21 @@
+# cmbuild :: covariance model construction from multiple sequence alignments
+# INFERNAL 1.1.5 (Sep 2023)
+# Copyright (C) 2023 Howard Hughes Medical Institute.
+# Freely distributed under the BSD open source license.
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# CM file:                                            evA.cm
+# alignment file:                                     evA.stk
+# name (the single) CM:                               evA
+# overwrite CM file if necessary:                     yes
+# use #=GC RF annotation to define consensus columns: yes
+# minimum rel entropy target:                         0.800000 bits
+# filter HMM is ML HMM created from CM:               yes
+# cm->clen multiplier for HMM glocal calib seq len:   1.889790
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+#                                                                      rel entropy
+#                                                                      -----------
+# idx    name                     nseq eff_nseq   alen  clen  bps bifs    CM   HMM description
+# ------ -------------------- -------- -------- ------ ----- ---- ---- ----- ----- -----------
+       1 evA                        32     3.74   7656  7471  196   12 0.800 0.782 
+#
+# CPU time: 613.83u 1.05s 00:10:14.88 Elapsed: 00:10:16.98
