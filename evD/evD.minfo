@@ -1,4 +1,4 @@
-MODEL evD blastdb:"evD.vadr.protein.fa" cmfile:"evD.cm" group:":FILE:evD.stk" subgroup:":FILE:evD.stk" length:"7468"
+MODEL evD blastdb:"evD.vadr.protein.fa" cmfile:"evD.cm" group:":FILE:evD.stk" subgroup:":FILE:evD.stk" length:"7427"
 FEATURE evD type:"gene" coords:"733..7299:+" parent_idx_str:"GBNULL" gene:"POLY" alternative_ftr_set:"POLY(gene)" alternative_ftr_set_subn:"POLY(CDS).1"
 FEATURE evD type:"gene" coords:"733..7293:+" parent_idx_str:"GBNULL" gene:"POLY" alternative_ftr_set:"POLY(gene)" alternative_ftr_set_subn:"POLY(CDS).2"
 FEATURE evD type:"CDS" coords:"733..7299:+" parent_idx_str:"GBNULL" gene:"POLY" product:"polyprotein" alternative_ftr_set:"POLY(CDS)"
