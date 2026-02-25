@@ -56,10 +56,16 @@ v-annotate.pl -r --r_file <ev-models-dir-path>/evB.rpn.fa --mkey <ev-key> --mdir
 
 ---
 ## <a name="evmodels"></a>EV VADR model library
-* The VADR model libraries for EV annotation were developed using representative RefSeq sequences
-  NC_001472(B).​
+* The VADR model libraries for EV annotation are based on multiple sequence alignments and were developed starting with representative RefSeq sequences
+  and expanding to include one representative from as many ICTV recognized serotypes as possible. This was done iteratively by manually checking annotation
+  and adjusting as necessary. The protein coding region was aligned in protein space and converted to a nucleotide alignment. Structural RNA regions were
+  aligned using Infernal's cmsearch and cmalign programs, and combined with the protein coding region and other non-coding regions, largely manually.
 
-* All 3 of the model genomes have been modified slightly on the 3' end to have polyA tails of consistent length and facilitate consistent behavior across the models. 
+* For evA: sequence MH118079.1 was modified by removing the first 8nt (which
+  were dissimilar from all other model genomes, and so were considered possibly
+  artifactual) and extending the polyA tail from 39 As to 61 As so the model
+  length for the polyA tail could match that of evB, evC and evD.
+
 ---
 
 ## <a name="docs"> Additional VADR documentation
