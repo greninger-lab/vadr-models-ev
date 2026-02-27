@@ -1,4 +1,4 @@
-MODEL evD blastdb:"evD.vadr.protein.fa" cmfile:"evD.cm" group:":FILE:evD.stk" subgroup:":FILE:evD.stk" length:"7437"
+MODEL evD blastdb:"evD.vadr.protein.fa" cmfile:"evD.cm" group:":FILE:evD.stk" subgroup:":FILE:evD.stk" length:"7427"
 FEATURE evD type:"gene" coords:"733..7299:+" parent_idx_str:"GBNULL" gene:"POLY" alternative_ftr_set:"POLY(gene)" alternative_ftr_set_subn:"POLY(CDS).1"
 FEATURE evD type:"gene" coords:"733..7293:+" parent_idx_str:"GBNULL" gene:"POLY" alternative_ftr_set:"POLY(gene)" alternative_ftr_set_subn:"POLY(CDS).2"
 FEATURE evD type:"CDS" coords:"733..7299:+" parent_idx_str:"GBNULL" gene:"POLY" product:"polyprotein" alternative_ftr_set:"POLY(CDS)"
@@ -17,4 +17,4 @@ FEATURE evD type:"mat_peptide" coords:"5926..7296:+" parent_idx_str:"1" gene:"PO
 FEATURE evD type:"regulatory" coords:"2..87:+" parent_idx_str:"GBNULL" note:"5' UTR cloverleaf cis-acting replication element; CRE" regulatory_class:"replication_regulatory_region"
 FEATURE evD type:"misc_structure" coords:"104..615:+" parent_idx_str:"GBNULL" note:"internal ribosomal entry site; IRES"
 FEATURE evD type:"regulatory" coords:"4386..4424:+" parent_idx_str:"GBNULL" note:"cis-acting replication element; CRE" regulatory_class:"replication_regulatory_region"
-FEATURE evD type:"misc_structure" coords:"7304..7381:+" parent_idx_str:"GBNULL" note:"3' UTR kissing-loop replication element; oriR" regulatory_class:"replication_regulatory_region"
+FEATURE evD type:"misc_structure" coords:"7304..7371:+" parent_idx_str:"GBNULL" note:"3' UTR kissing-loop replication element; oriR" regulatory_class:"replication_regulatory_region"
