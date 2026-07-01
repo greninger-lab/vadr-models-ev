@@ -39,9 +39,8 @@ $VADRSCRIPTSDIR/miniscripts/fasta-trim-terminal-ambigs.pl --minlen 50 --maxlen 8
    EV sequences using the recommended command below. In addition, you
    must indicate the EV species evA, evB, evC or evD as \<ev-key\>.
 
-   For evB, run:
 ```
-v-annotate.pl -r --r_file <ev-models-dir-path>/evD.rpn.fa --mkey <ev-key> --mdir <ev-models-dir-path> <fasta-file-to-annotate> <output-directory-to-create>
+v-annotate.pl -r --r_file <ev-models-dir-path>/<ev-key>.rpn.fa --mkey <ev-key> --mdir <ev-models-dir-path> <fasta-file-to-annotate> <output-directory-to-create>
 ```
 
 5. After running the `v-annotate.pl` command in step 4, there will be a number of files
