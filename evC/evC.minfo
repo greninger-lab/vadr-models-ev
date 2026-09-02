@@ -17,4 +17,4 @@ FEATURE evC type:"mat_peptide" coords:"5990..7372:+" parent_idx_str:"1" product:
 FEATURE evC type:"regulatory" coords:"2..88:+" parent_idx_str:"GBNULL" note:"5' UTR cloverleaf cis-acting replication element; CRE" regulatory_class:"replication_regulatory_region"
 FEATURE evC type:"misc_structure" coords:"103..616:+" parent_idx_str:"GBNULL" note:"internal ribosomal entry site; IRES"
 FEATURE evC type:"regulatory" coords:"4459..4497:+" parent_idx_str:"GBNULL" note:"cis-acting replication element; CRE" regulatory_class:"replication_regulatory_region"
-FEATURE evC type:"misc_structure" coords:"7370..7452:+" parent_idx_str:"GBNULL" note:"3' UTR kissing-loop replication element; oriR" regulatory_class:"replication_regulatory_region"
+FEATURE evC type:"misc_structure" coords:"7370..7452:+" parent_idx_str:"GBNULL" note:"3' UTR kissing-loop replication element; oriR"
